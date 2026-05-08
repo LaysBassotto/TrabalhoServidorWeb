@@ -1,0 +1,8 @@
+{
+  "palavras": [
+    { "texto": "UNITY", "dificuldade": 2 },
+    { "texto": "MIRROR", "dificuldade": 3 },
+    { "texto": "NETWORK", "dificuldade": 4 },
+    { "texto": "SERVER", "dificuldade": 2 }
+  ]
+}
