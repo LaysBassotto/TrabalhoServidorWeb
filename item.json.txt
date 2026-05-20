@@ -1,0 +1,7 @@
+{
+  "reduce": {
+    "name": "Redução de Tamanho",
+    "price": 5,
+    "effect": "remove 3 segmentos"
+  }
+}
